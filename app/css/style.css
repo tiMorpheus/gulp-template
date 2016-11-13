@@ -1,0 +1,13 @@
+/* SASS file */
+.testing {
+  width: 71.42857%;
+  color: #807b7b; }
+
+h1 {
+  color: red; }
+
+p {
+  font-size: 20px;
+  text-transform: uppercase;
+  font: bold Arial, sans-serif;
+  color: blue; }
